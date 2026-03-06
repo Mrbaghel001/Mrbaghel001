@@ -22,7 +22,7 @@ AI & Machine Learning Enthusiast • Python Developer • Building AI-powered Ap
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mrbaghel001&show_icons=true&theme=tokyonight" height="165"/>
@@ -31,12 +31,11 @@ AI & Machine Learning Enthusiast • Python Developer • Building AI-powered Ap
 
 ---
 
-# 📈 GitHub Contribution Activity
+## 📈 GitHub Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrbaghel001&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
-
 ---
 
 # 🚀 Featured Project
