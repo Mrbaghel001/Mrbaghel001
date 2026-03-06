@@ -20,17 +20,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Mrbaghel001&show_icons=true&theme=tokyonight" />
 </p>
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrbaghel001&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrbaghel001&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mrbaghel001&show_icons=true&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrbaghel001&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
 ## 🚀 Featured Project
 
 ### MediGrid AI Assistant
