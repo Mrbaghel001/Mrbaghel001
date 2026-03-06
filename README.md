@@ -26,9 +26,9 @@ AI & Machine Learning Enthusiast • Python Developer • Building AI-powered Ap
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mrbaghel001&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mrbaghel001&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrbaghel001&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrbaghel001&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
@@ -37,7 +37,7 @@ AI & Machine Learning Enthusiast • Python Developer • Building AI-powered Ap
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrbaghel001&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Mrbaghel001&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
