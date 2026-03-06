@@ -13,6 +13,11 @@ AI & Machine Learning Enthusiast | Python Developer | Building AI-powered system
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Mrbaghel001/Mrbaghel001/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ## 🚀 Tech Stack
 
