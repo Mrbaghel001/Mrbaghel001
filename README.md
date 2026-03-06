@@ -13,11 +13,7 @@ AI & Machine Learning Enthusiast | Python Developer | Building AI-powered system
 </p>
 
 ---
-## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://github.com/Mrbaghel001/Mrbaghel001/blob/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ## 🚀 Tech Stack
 
@@ -27,15 +23,6 @@ AI & Machine Learning Enthusiast | Python Developer | Building AI-powered system
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-5z92xtgwl-mrbaghel001s-projects.vercel.app/api?username=Mrbaghel001&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats-5z92xtgwl-mrbaghel001s-projects.vercel.app/api/top-langs/?username=Mrbaghel001&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</p>
 
 ---
 
