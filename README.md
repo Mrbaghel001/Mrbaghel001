@@ -28,7 +28,7 @@ AI & Machine Learning Enthusiast | Python Developer | Building AI-powered system
 
 <img height="170" src="https://github-readme-stats-5z92xtgwl-mrbaghel001s-projects.vercel.app/api?username=Mrbaghel001&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-5z92xtgwl-mrbaghel001s-projects.vercel.app/api?username=Mrbaghel001&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-5z92xtgwl-mrbaghel001s-projects.vercel.app/api/top-langs/?username=Mrbaghel001&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
