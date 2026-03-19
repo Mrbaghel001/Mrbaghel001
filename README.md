@@ -81,4 +81,8 @@ AI-powered medical assistant that analyzes prescriptions, extracts medicine data
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Mrbaghel001/Mrbaghel001/blob/output/github-contribution-grid-snake.svg)
+
 ⭐ *Always learning and building AI-powered systems.*
